@@ -1,0 +1,23 @@
+body {
+    background-color: #dfc1c9;
+    text-align: center;
+}
+
+nav {
+    text-decoration: none;
+}
+
+h1, h2, h3 {
+    font-weight: bold;
+    color:darksalmon;
+}
+
+li {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:honeydew;
+}
+img {
+    border-color: blueviolet;
+    height:100%;
+    width: 500px;
+}
