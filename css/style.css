@@ -17,7 +17,7 @@ li {
     color:honeydew;
 }
 img {
-    border-color: blueviolet;
     height:100%;
     width: 500px;
+    border: blueviolet 30px solid;
 }
